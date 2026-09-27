@@ -1,0 +1,22 @@
+# STM32CubeIDE for VS Code
+/dwin_dgus_first_step_c5a3zg_cmake/.settings/
+/dwin_dgus_first_step_c5a3zg_cmake/.vscode/
+/dwin_dgus_first_step_c5a3zg_cmake/arch/
+/dwin_dgus_first_step_c5a3zg_cmake/build/
+/dwin_dgus_first_step_c5a3zg_cmake/cmake/
+/dwin_dgus_first_step_c5a3zg_cmake/generated/
+/dwin_dgus_first_step_c5a3zg_cmake/stm32c5xx_dfp/
+/dwin_dgus_first_step_c5a3zg_cmake/stm32c5xx_drivers/
+/dwin_dgus_first_step_c5a3zg_cmake/user_modifiable/
+/dwin_dgus_first_step_c5a3zg_cmake/utilities/
+.clangd
+CMakePresets.JSON
+
+# User files
+/Assets/Tools/
+/Assets/Videos/
+/Assets/Docs/
+/Assets/Arduino/
+/Assets/Libs/
+/Assets/Images/HighRes/
+/Assets/DGUS_V7648_Project/
